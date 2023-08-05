@@ -5,7 +5,7 @@ This is the first version of my profile. Gonna update this further.
 Projects currently working on: 
 
 -- DATA ANALYSIS --
-- User Reported Psyhadelic Experience Analysis ✨✨✨
+- User Reported Psychadelic Experience Analysis ✨✨✨
 - etc
 - etc
 - etc...
